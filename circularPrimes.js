@@ -1,5 +1,5 @@
-/* Find all the "circular" numbers of a number and return them in an array*/
-/* For example: 135 will return [135,513,351]*/
+/* Find all the "circular" numbers of a number and return them in an array */
+/* For example: 135 will return [135,513,351] */
 function findCircular(num){
   var str=String(num);
   var res=[];
