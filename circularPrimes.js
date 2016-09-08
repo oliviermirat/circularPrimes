@@ -42,5 +42,7 @@ function nbCircularPrime(num){
 }
 
 /* Circular Prime Print Examples */
-nbCircularPrime(10)
-nbCircularPrime(100)
+
+nbCircularPrime(10) //Should print: [2, 3, 5, 7]
+
+nbCircularPrime(100) //Should print: [2, 3, 5, 7, 11, 13, 17, 31, 37, 71, 73, 79, 97]
